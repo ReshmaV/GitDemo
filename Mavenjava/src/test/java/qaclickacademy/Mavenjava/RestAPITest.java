@@ -8,6 +8,8 @@ public class RestAPITest {
     public void test5()
     {
         System.out.println( "Hello Buckingham palace!" );
+        System.out.println( "Hello Reshma" );
+        System.out.println( "Hello Sidharth" );
     }
     @Test
     public void test6()
