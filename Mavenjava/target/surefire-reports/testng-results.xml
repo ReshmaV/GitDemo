@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40" started-at="2021-07-29T23:42:10 IST" finished-at="2021-07-29T23:42:10 IST">
+    <groups>
+    </groups>
+    <test name="Smoke" duration-ms="40" started-at="2021-07-29T23:42:10 IST" finished-at="2021-07-29T23:42:10 IST">
+      <class name="qaclickacademy.Mavenjava.RestAPITest">
+        <test-method status="PASS" signature="test5()[pri:0, instance:qaclickacademy.Mavenjava.RestAPITest@71423665]" name="test5" duration-ms="3" started-at="2021-07-29T23:42:10 IST" finished-at="2021-07-29T23:42:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:qaclickacademy.Mavenjava.RestAPITest@71423665]" name="test6" duration-ms="0" started-at="2021-07-29T23:42:10 IST" finished-at="2021-07-29T23:42:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+      </class> <!-- qaclickacademy.Mavenjava.RestAPITest -->
+      <class name="qaclickacademy.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="test7()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@63753b6d]" name="test7" duration-ms="1" started-at="2021-07-29T23:42:10 IST" finished-at="2021-07-29T23:42:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method status="PASS" signature="test8()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@63753b6d]" name="test8" duration-ms="0" started-at="2021-07-29T23:42:10 IST" finished-at="2021-07-29T23:42:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+      </class> <!-- qaclickacademy.Mavenjava.AppiumTest -->
+      <class name="qaclickacademy.Mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="test3()[pri:0, instance:qaclickacademy.Mavenjava.SeleniumTest@6b09bb57]" name="test3" duration-ms="1" started-at="2021-07-29T23:42:10 IST" finished-at="2021-07-29T23:42:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:qaclickacademy.Mavenjava.SeleniumTest@6b09bb57]" name="test4" duration-ms="1" started-at="2021-07-29T23:42:10 IST" finished-at="2021-07-29T23:42:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- qaclickacademy.Mavenjava.SeleniumTest -->
+    </test> <!-- Smoke -->
+  </suite> <!-- Suite -->
+</testng-results>
