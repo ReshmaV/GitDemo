@@ -15,5 +15,6 @@ public class RestAPITest {
     public void test6()
     {
     	System.out.println( "Hello Sandringham palace!" );
+    	System.out.println( "Hello Kannampalayam palace!" );
     }
 }
