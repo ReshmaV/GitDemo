@@ -10,13 +10,14 @@ public class RestAPITest {
         System.out.println( "Hello Buckingham palace!" );
         System.out.println( "Hello Reshma" );
         System.out.println( "Hello Sidharth" );
+        System.out.println( "Hello Kannampalayam palace!" );
     }
     @Test
     public void test6()
     {
     	System.out.println( "Hello Sandringham palace!" );
     	System.out.println( "Hello Kannampalayam palace!" );
-    	System.out.println( "Hello Kannampalayam palace! added by GitX" );
+    	
     }
     
 }
