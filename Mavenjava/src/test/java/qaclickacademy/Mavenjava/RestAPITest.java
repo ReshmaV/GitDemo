@@ -16,5 +16,7 @@ public class RestAPITest {
     {
     	System.out.println( "Hello Sandringham palace!" );
     	System.out.println( "Hello Kannampalayam palace!" );
+    	System.out.println( "Hello Kannampalayam palace! added by GitX" );
     }
+    
 }
